@@ -2,7 +2,7 @@
 .classpath
 .idea
 target
-.idea/*
+.idea/
 *.eml
 *.iml
 .idea/aws.xml
@@ -21,4 +21,3 @@ target
 *.zip
 *.tar.gz
 *.rar
-*.idea
