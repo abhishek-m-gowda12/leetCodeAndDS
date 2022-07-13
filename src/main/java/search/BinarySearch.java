@@ -15,6 +15,7 @@ public class BinarySearch {
             }
             middle = (int) Math.floor((start + end) / 2);
         }
+        System.out.println(start + " " + middle + " " + end);
         return list.get(middle) == elemnet ? middle : -1;
     }
 
